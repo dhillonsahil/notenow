@@ -1,6 +1,5 @@
 {
   "name": "notenow",
-  "homepage": "https://dhillonsahil.github.io/notenow",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
