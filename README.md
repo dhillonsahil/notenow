@@ -1,6 +1,6 @@
 # React JS Notes Application
 
-![React JS Notes Application](project_screenshot.png)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
